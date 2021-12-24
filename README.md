@@ -5,7 +5,7 @@ This is a pre-alpha release, so stuf isn't working correctly atm.
 
 ## Installation
 ```
-composer require martinmulder/vmware-api
+composer require ghasemy50/vmware-api
 ```
 
 ## Guide
